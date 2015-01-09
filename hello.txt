@@ -2,5 +2,6 @@ Row 01
 Row 02 - Added 01
 Row 03 - Added 03
 Row 04 - Change made on GitHub web page
+Row 05 - Changed locally
 Row Last
 Row After Last
